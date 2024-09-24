@@ -1,0 +1,9 @@
+{
+    "canisters": {
+      "canister_name": {
+        "type": "motoko",
+        "module": "src/canister_name/main.mo"
+      }
+    },
+    "version": 1
+  }
